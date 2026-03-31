@@ -23,4 +23,10 @@ An electronic device built for GPS tracking. The project was made with KiCad.
 
 ---
 
+## Demonstration playlist
+
+https://www.youtube.com/watch?v=A6QJqgy0O1o&list=PLb_bXLsinHOQtkZ2X2QlIw-E_5eapHqGd
+
+---
+
 ![GPS board](images/device.jpg)
