@@ -2,7 +2,7 @@
 
 An electronic device built for GPS tracking. The project was made with KiCad.
 
-For the firmware repository visit gps-hardware: https://github.com/Baksi675/gps-firmware
+For the firmware repository visit gps-firmware: https://github.com/Baksi675/gps-firmware
 
 ---
 
